@@ -1,3 +1,0 @@
-name = Georgi
-weigth = 80kg
-heigth = 175cm
