@@ -6,4 +6,9 @@
 - Creating a Git Conflict & Merge
 - Resolving the conflict
 
+![GitHub Repository](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
+![alt text] (2. GitHub Repository.jpg)
+
+
 [^1]:==*SoftUni*==
