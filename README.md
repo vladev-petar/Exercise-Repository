@@ -1,5 +1,5 @@
 # Exercise-Repository
-*Exercising on working with GitHub* :joy:
+*Exercising on working with GitHub*[^1] :joy:
 
 - Creating a repository in GitHub
 - Adding a File to GitHub
