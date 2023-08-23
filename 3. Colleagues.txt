@@ -1,0 +1,14 @@
+What is your name? --------------------- Petar
+Where are you from? -------------------- Varna
+What hobbies/pastimes do you enjoy? ---- Travelling
+Why did you pick SoftUni? -------------- Reccomended by friends 
+
+What is your name? --------------------- Georgi
+Where are you from? -------------------- Plovdiv
+What hobbies/pastimes do you enjoy? ---- Sports
+Why did you pick SoftUni? -------------- Reccomended by friends
+
+What is your name? --------------------- Ivan
+Where are you from? -------------------- Sofia
+What hobbies/pastimes do you enjoy? ---- Watching movies
+Why did you pick SoftUni? -------------- Reccomended by friends
