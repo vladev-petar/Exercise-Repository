@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 name = Georgi
 weight = 80kg
 heigth = 175cm
-=======
+
 name = Petar
 weight = 90kg
 heigth = 185cm
->>>>>>> 1dc97240ccbf1d068eef7b808bd64be5281534d0
+
