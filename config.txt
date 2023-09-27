@@ -1,8 +1,8 @@
 name = Georgi
 weight = 80kg
-heigth = 175cm
+height = 175cm
 
 name = Petar
 weight = 90kg
-heigth = 185cm
+height = 185cm
 
